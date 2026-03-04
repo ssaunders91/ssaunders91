@@ -12,7 +12,7 @@ I am a security enthusiast currently transitioning into the field. I focus on un
 ### 📽️ Projects
 - **Active Directory Home Lab:** 
 - **Post Mortem Incident Review:** 
-- **Incident Response Plan** 
+- **Incident Response Plan:** https://github.com/ssaunders91/Incident-response-plan/blob/main/Incident%20Response%20Plan.pdf
 - **Scripting:** 
 
 ---
