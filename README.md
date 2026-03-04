@@ -12,7 +12,7 @@ I am a security enthusiast currently transitioning into the field. I focus on un
 ### 📽️ Projects
 - **Active Directory Home Lab:** 
 - **Post Mortem Incident Review:** 
-- **Security Tools:** 
+- **Incident Response Plan** 
 - **Scripting:** 
 
 ---
