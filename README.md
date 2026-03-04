@@ -9,7 +9,7 @@ I am a security enthusiast currently transitioning into the field. I focus on un
 
 ---
 
-### Projects
+### 📽️ Projects
 - **Active Directory Home Lab:** 
 - **Post Mortem Incident Review:** 
 - **Security Tools:** 
@@ -28,5 +28,5 @@ I am a security enthusiast currently transitioning into the field. I focus on un
 
 ---
 ### 👋 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-saunders-157118360)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212c42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sisaunders91)
