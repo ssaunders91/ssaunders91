@@ -3,14 +3,16 @@
 
 I am a security enthusiast currently transitioning into the field. I focus on understanding the "how" behind vulnerabilities and documenting my journey through labs and CTFs.
 
-- 🔭 **Current Goal:** Completing the CompTIA Security+  
+- 🔭 **Current Goal:** Studying for the CompTIA A+ and then Security+  
 - 🛡️ **Interests:** Network Security, Blue Teaming, and Scripting
 - ✍️ **Writing:** I document my lab findings here to help solidify my knowledge.
 
 ---
 
 ### 📽️ Projects
-- **Phishing-Analysis-Boogeyman:**  https://github.com/ssaunders91/Phishing-Analysis-Boogeyman
+- **Phishing Analysis Boogeyman:**  https://github.com/ssaunders91/Phishing-Analysis-Boogeyman
+- **Windows Forensics Incident Response:** https://github.com/ssaunders91/Windows-Forensics-Incident-Response
+- **Network Forensics Wireshark Analysis:** https://github.com/ssaunders91/Network-Forensics-Wireshark-Analysis
 - **Incident Post-Mortem Report:** https://github.com/ssaunders91/incident-post-mortem-report/blob/main/Incident%20Post-Mortem%20Report.pdf  
 - **Incident Response Plan:** https://github.com/ssaunders91/Incident-response-plan/blob/main/Incident%20Response%20Plan.pdf
   
