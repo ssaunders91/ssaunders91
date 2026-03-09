@@ -1,7 +1,10 @@
 # Hi, I'm Simon 👋
-### Aspiring Cybersecurity Professional | Continuous Learner
+ ### Aspiring SOC Analyst | Cybersecurity Specialist in Training
+I am a dedicated professional currently transitioning into Cybersecurity. While I am new to the industry, I am actively building my technical foundation through hands-on labs, focusing on **Network Forensics**, **Endpoint Security**, and **Incident Response**.
 
-I am a security enthusiast currently transitioning into the field. I focus on understanding the "how" behind vulnerabilities and documenting my journey through labs and CTFs.
+I am currently seeking my first Junior SOC Analyst or Security Trainee role within the UK.
+
+---
 
 - 🔭 **Current Goal:** Studying for the CompTIA A+ and then Security+  
 - 🛡️ **Interests:** Network Security, Blue Teaming, and Scripting
