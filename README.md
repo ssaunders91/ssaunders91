@@ -18,8 +18,8 @@ I am a security enthusiast currently transitioning into the field. I focus on un
 ---
 
 ### 📊 Training & Certifications
-* **CompTIA Security+** (Studying via Professor Messor)
-* **NCFE Level 3 Certificate in Cyber Security Practices** (Completed Febuary 2026)
+* **CompTIA A+** (Studying via Professor Messer)
+* **NCFE Level 3 Certificate in Cyber Security Practices** (Completed February 2026)
 * **TryHackMe SOC Level 1:** [(https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKCQM0TY0N.pdf)]
 * **TryHackMe Pre Security:**[(https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALRSKQYPSJ.pdf)]
 * **Gateway Qualifications Level 2 Award in Cybersecurity** (Completed September 2025)
