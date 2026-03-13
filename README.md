@@ -7,6 +7,10 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 ---
 
 ### 📽️ Projects
+
+**[CompTIA A+ Core 1 (220-1201) Technical Lab Logs](https://github.com/ssaunders91/CompTIA-A-Plus-Labs-C1)**
+- This project documents hands-on labs specifically for the **Core 1 (220-1201)** exam objectives. It covers the critical "Ground-to-Cloud" foundation: mobile device synchronisation, networking diagnostics using CLI (ping, nslookup, ipconfig), and auditing SOHO router security (WPA2/AES). Understanding these hardware and networking layers is essential for any effective security analysis.
+
 **[Phishing Analysis Boogeyman](https://github.com/ssaunders91/Phishing-Analysis-Boogeyman)**
 - This project is a detailed forensic investigation of a simulated targeted phishing attack. As a SOC Analyst, I analysed a workstation compromise starting from the initial email delivery, through PowerShell-based execution, to the final exfiltration of sensitive user data.
 
