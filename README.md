@@ -42,23 +42,36 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 * Learned: Risk management, Linux, Python, and SQL for security.
 
 
-### **Hands-on Training (TryHackMe)**
+### **Hands-on Training**
+
+**TryHackMe Training**
 
 **[SOC Level 1 Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKCQM0TY0N.pdf)**
 * Learned: How to use SIEM tools (Splunk/ELK), analyze logs, and investigate phishing.
 
-
 **[Pre-Security Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALRSKQYPSJ.pdf)**
 * Learned: Networking basics (OSI Model, DNS, IP addresses) and Web Security.
 
+**Springpod Virtual Work Experience**
 
+**[AWS Career Tour: Cloud Computing](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/AWS_Cloud_Computing.pdf)**
+* Explored fundamental cloud infrastructure, including the shared responsibility model and how AWS services scale for global business.
+
+**[Digital Skills: Cyber Security](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/Cyber_Security_Amazon.pdf)**
+* Developed an understanding of the modern threat landscape and the proactive measures taken by Amazon to secure consumer data.
+
+**[Prevent a Data Breach: Cyber Security Sprint with Drax](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/Drax_Cyber_Sprint.pdf)**
+* Participated in a simulated breach response for a Critical National Infrastructure provider, identifying vulnerabilities and remediation strategies.
 
 ### **🗺️ Current Roadmap**
 
 1. **CompTIA A+** (Studying via Professor Messer)
 * Focus: Hardware, troubleshooting, and operating system fundamentals.
 
-2. **CompTIA Security+** (Next Stop)
+2. **Virtual Experience Training**
+*Focus: Through the use of Springpod and Forage. 
+
+4. **CompTIA Security+** (Next Stop)
 * Goal: Deepen my knowledge of threats, attacks, and vulnerability management.
 
 
