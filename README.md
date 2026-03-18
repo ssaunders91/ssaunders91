@@ -8,23 +8,27 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ### 📽️ Projects
 
-**Current Project! [CompTIA A+ Core 1 (220-1201) Technical Lab Logs](https://github.com/ssaunders91/CompTIA-A-Plus-Labs-C1)**
-- This project documents hands-on labs specifically for the **Core 1 (220-1201)** exam objectives. It covers the critical "Ground-to-Cloud" foundation: mobile device synchronisation, networking diagnostics using CLI (ping, nslookup, ipconfig), and auditing SOHO router security (WPA2/AES). Understanding these hardware and networking layers is essential for any effective security analysis.
+**Current Project! [CompTIA A+ (220-1201 & 220-1202) Study & Technical Labs](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)**
+- This repository contains my technical notes and hands-on lab documentation for the CompTIA A+ 1200 series certification. I am currently working through the curriculum using Professor Messer’s training modules to build a solid foundation in IT operational procedures and hardware troubleshooting.
 
-**[Phishing Analysis Boogeyman](https://github.com/ssaunders91/Phishing-Analysis-Boogeyman)**
-- This project is a detailed forensic investigation of a simulated targeted phishing attack. As a SOC Analyst, I analysed a workstation compromise starting from the initial email delivery, through PowerShell-based execution, to the final exfiltration of sensitive user data.
+**TryHackMe Labs**
 
-**[Windows Forensics Incident Response](https://github.com/ssaunders91/Windows-Forensics-Incident-Response)**
-- This project focuses on host-based forensics on a compromised Windows workstation. Using a variety of native Windows tools and forensic utilities, I analysed the system to identify unauthorised accounts, persistence mechanisms, and evidence of "Living off the Land" (LotL) techniques used by an adversary.
+**[TryHackMe Technical Lab Write-ups](https://github.com/ssaunders91/Try-Hack-Me-Labs)**
+- These Write ups Include SOC Investigation: Operation Boogeyman, Windows Forensics: Investigating Windows & Network Forensics: Wireshark Traffic Analysis.
 
-**[Network Forensics Wireshark Analysis](https://github.com/ssaunders91/Network-Forensics-Wireshark-Analysis)**
-- This project involves a deep-dive forensic investigation of a PCAP (Packet Capture) file to identify signs of a network compromise. Using Wireshark, I analysed suspicious traffic patterns to uncover an ICMP Tunnel used for data exfiltration and a Reverse Shell established by an external adversary.
+
+**NCFE Level 3 in Cybersecurity Practices Projects**
 
 **[Incident Post-Mortem Report](https://github.com/ssaunders91/incident-post-mortem-report/blob/main/README.md)**  
-- This document serves as a professional incident post-mortem report, produced as part of the NCFE Level 3 Cybersecurity Practices curriculum to demonstrate incident response analy
+- This document serves as a professional incident post-mortem report, produced as part of the NCFE Level 3 Cybersecurity Practices curriculum to demonstrate incident response analysis.
 
 **[Incident Response Plan](https://github.com/ssaunders91/Incident-response-plan/blob/main/README.md)**
  -  This Incident Response Plan serves as a practical application of the NCSC framework, produced as a formal requirement for the NCFE Level 3 in Cyber Security Practices.
+
+**Virtual Work Experience** 
+
+**[Virtual Work Experience Labs](https://github.com/ssaunders91/Virtual-Experience-Labs)** 
+
 
 ---
 
