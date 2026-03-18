@@ -6,18 +6,18 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ---
 
-### 📽️ Projects
+## 📽️ Projects
 
-**Current Project! [CompTIA A+ (220-1201 & 220-1202) Study & Technical Labs](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)**
+### **CompTIA A+ [(220-1201 & 220-1202) Study & Technical Labs](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** **Current Project!** 
 - This repository contains my technical notes and hands-on lab documentation for the CompTIA A+ 1200 series certification. I am currently working through the curriculum using Professor Messer’s training modules to build a solid foundation in IT operational procedures and hardware troubleshooting.
 
-**TryHackMe Labs**
+### **TryHackMe Labs**
 
 **[TryHackMe Technical Lab Write-ups](https://github.com/ssaunders91/Try-Hack-Me-Labs)**
 - These Write ups Include SOC Investigation: Operation Boogeyman, Windows Forensics: Investigating Windows & Network Forensics: Wireshark Traffic Analysis.
 
 
-**NCFE Level 3 in Cybersecurity Practices Projects**
+### **NCFE Level 3 in Cybersecurity Practices Projects**
 
 **[Incident Post-Mortem Report](https://github.com/ssaunders91/incident-post-mortem-report/blob/main/README.md)**  
 - This document serves as a professional incident post-mortem report, produced as part of the NCFE Level 3 Cybersecurity Practices curriculum to demonstrate incident response analysis.
@@ -25,16 +25,17 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 **[Incident Response Plan](https://github.com/ssaunders91/Incident-response-plan/blob/main/README.md)**
  -  This Incident Response Plan serves as a practical application of the NCSC framework, produced as a formal requirement for the NCFE Level 3 in Cyber Security Practices.
 
-**Virtual Work Experience** 
+### **Virtual Work Experience** 
 
 **[Virtual Work Experience Labs](https://github.com/ssaunders91/Virtual-Experience-Labs)** 
 
+- Welcome to my repository for virtual work experience and practical simulations. This space is dedicated to documenting my hands-on journey into the cybersecurity industry, focusing on the analysis of network threats and the practical application of security principles.
 
 ---
 
 ## 🎓 My Training & Certifications
 
-### **Professional Certifications**
+## **Professional Certifications**
 
 **[NCFE Level 3 Certificate in Cyber Security Practices](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/NCFE_Level%203%20Cyber_Security%20Practices_Cert.pdf)** (Completed February 2026)
  * Learned: Professional security practices and technical vulnerability assessment.
@@ -46,9 +47,7 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 * Learned: Risk management, Linux, Python, and SQL for security.
 
 
-### **Hands-on Training**
-
-**TryHackMe Training**
+### **TryHackMe Training**
 
 **[SOC Level 1 Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XKCQM0TY0N.pdf)**
 * Learned: How to use SIEM tools (Splunk/ELK), analyze logs, and investigate phishing.
@@ -56,7 +55,7 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 **[Pre-Security Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ALRSKQYPSJ.pdf)**
 * Learned: Networking basics (OSI Model, DNS, IP addresses) and Web Security.
 
-**Springpod Virtual Work Experience**
+### **Springpod Virtual Work Experience**
 
 **[AWS Career Tour: Cloud Computing](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/AWS_Cloud_Computing.pdf)**
 * Explored fundamental cloud infrastructure, including the shared responsibility model and how AWS services scale for global business.
