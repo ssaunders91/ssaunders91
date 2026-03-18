@@ -32,13 +32,13 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ### **Professional Certifications**
 
-**[NCFE Level 3 Certificate in Cyber Security Practices](https://github.com/ssaunders91/ssaunders91/blob/main/NCFE_Level%203%20Cyber_Security%20Practices_Cert.pdf)** (Completed February 2026)
+**[NCFE Level 3 Certificate in Cyber Security Practices](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/NCFE_Level%203%20Cyber_Security%20Practices_Cert.pdf)** (Completed February 2026)
  * Learned: Professional security practices and technical vulnerability assessment.
 
-**[Gateway Level 2 Award in Cybersecurity](https://github.com/ssaunders91/ssaunders91/blob/main/Gateway%20Qualifications%20Level%202%20Award%20in%20Cybersecurity.pdf)** (Completed September 2025)
+**[Gateway Level 2 Award in Cybersecurity](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/Gateway%20Qualifications%20Level%202%20Award%20in%20Cybersecurity.pdf)** (Completed September 2025)
 * Learned: Foundations of networking and digital security.
 
-**[Google Cybersecurity Professional](https://github.com/ssaunders91/ssaunders91/blob/main/GoogleCybersecurityProfessionalCertificateV2_Badge20250402-25-j6d8f3.pdf)** (Completed March 2025)
+**[Google Cybersecurity Professional](https://github.com/ssaunders91/ssaunders91/blob/main/Certifications/GoogleCybersecurityProfessionalCertificateV2_Badge20250402-25-j6d8f3.pdf)** (Completed March 2025)
 * Learned: Risk management, Linux, Python, and SQL for security.
 
 
@@ -69,9 +69,9 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 * Focus: Hardware, troubleshooting, and operating system fundamentals.
 
 2. **Virtual Experience Training**
-*Focus: Through the use of Springpod and Forage. 
+* Focus: Through the use of Springpod and Forage. 
 
-4. **CompTIA Security+** (Next Stop)
+3. **CompTIA Security+** (Next Stop)
 * Goal: Deepen my knowledge of threats, attacks, and vulnerability management.
 
 
