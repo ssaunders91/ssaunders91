@@ -8,8 +8,19 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ## 📽️ Projects
 
-### **CompTIA A+ [(220-1201 & 220-1202) Technical Labs](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** **Current Project!** 
+### **CompTIA A+**  (Current Project!)
+
+**[CompTIA A+ (220-1201 & 220-1202) Technical Labs Write-ups](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** 
+
 - This repository contains my technical notes and hands-on lab documentation for the CompTIA A+ 1200 series certification. I am currently working through the curriculum using Professor Messer’s training modules to build a solid foundation in IT operational procedures and hardware troubleshooting.
+
+
+### **Virtual Work Experience Labs** (In Progress!)
+
+**[Virtual Work Experience Labs Write-ups](https://github.com/ssaunders91/Virtual-Experience-Labs)**
+
+- Welcome to my repository for virtual work experience and practical simulations. This space is dedicated to documenting my hands-on journey into the cybersecurity industry, focusing on the analysis of network threats and the practical application of security principles.
+
 
 ### **TryHackMe Labs**
 
@@ -24,12 +35,6 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 **[Incident Response Plan](https://github.com/ssaunders91/Incident-response-plan/blob/main/README.md)**
  -  This Incident Response Plan serves as a practical application of the NCSC framework, produced as a formal requirement for the NCFE Level 3 in Cyber Security Practices.
-
-### **Virtual Work Experience** 
-
-**[Virtual Work Experience Labs](https://github.com/ssaunders91/Virtual-Experience-Labs)** 
-
-- Welcome to my repository for virtual work experience and practical simulations. This space is dedicated to documenting my hands-on journey into the cybersecurity industry, focusing on the analysis of network threats and the practical application of security principles.
 
 ---
 
