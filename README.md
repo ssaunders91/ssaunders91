@@ -8,7 +8,7 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ## 📽️ Projects
 
-### **CompTIA A+ [(220-1201 & 220-1202) Study & Technical Labs](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** **Current Project!** 
+### **CompTIA A+ [(220-1201 & 220-1202) Technical Labs](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** **Current Project!** 
 - This repository contains my technical notes and hands-on lab documentation for the CompTIA A+ 1200 series certification. I am currently working through the curriculum using Professor Messer’s training modules to build a solid foundation in IT operational procedures and hardware troubleshooting.
 
 ### **TryHackMe Labs**
@@ -68,10 +68,10 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ### **🗺️ Current Roadmap**
 
-1. **CompTIA A+** (Studying via Professor Messer)
+1. **CompTIA A+** (Studying via Professor Messer, In Progress)
 * Focus: Hardware, troubleshooting, and operating system fundamentals.
 
-2. **Virtual Experience Training**
+2. **Virtual Experience Training** (In Progress)
 * Focus: Through the use of Springpod and Forage. 
 
 3. **CompTIA Security+** (Next Stop)
