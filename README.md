@@ -10,7 +10,7 @@ I am currently seeking my first Junior SOC Analyst or Security Trainee role with
 
 ### **CompTIA A+**  (Current Project!)
 
-**[CompTIA A+ (220-1201 & 220-1202) Technical Labs Write-ups](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** 
+**[CompTIA A+ (220-1201 & 220-1202) Repo](https://github.com/ssaunders91/CompTIA-A-Plus/blob/main/README.md)** 
 
 - This repository contains my technical notes and hands-on lab documentation for the CompTIA A+ 1200 series certification. I am currently working through the curriculum using Professor Messer’s training modules to build a solid foundation in IT operational procedures and hardware troubleshooting.
 
